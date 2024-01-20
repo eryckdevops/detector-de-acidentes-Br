@@ -34,7 +34,8 @@ O conjunto de dados para este projeto é um vídeo, que está presente no reposi
 
 
 ## AINDA EM DESENVOLVIMENTO NOVAS FUNCIONALIDADE ABAIXO:
-====================================================================================================
+========================================================
+
 Os usuários poderão identificar padrões específicos relacionados a modelos de carros com maior propensão a acidentes durante as horas da manhã. Essa informação possibilita uma compreensão mais profunda dos riscos associados a diferentes veículos, permitindo a implementação de medidas preventivas específicas para reduzir a incidência de acidentes nesses horários.
 
 Estou implementando uma inteligência artificial avançada que aprimora essas capacidades, analisando dados em tempo real para identificar padrões complexos e correlações não imediatamente aparentes aos usuários. Integrando esse nível de análise preditiva, a plataforma fornecerá informações sobre modelos de carros e destacará áreas geográficas com maior risco de acidentes.
